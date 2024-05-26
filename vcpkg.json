@@ -1,0 +1,8 @@
+{
+  "name": "graphics",
+  "version-string": "0.1",
+  "dependencies": [
+    "imgui",
+    "directxtk"
+  ]
+}
